@@ -1,4 +1,4 @@
-int trigPin =7;
+int trigPin =5;
 int echoPin = 6;
 long duration;
 int distance;
